@@ -29,8 +29,8 @@ body {
 }
 
 .wrapper {
-	display: flex;
-	flex-direction: column;
+  display: flex;
+  flex-direction: column;
   min-height: 100%;
 }
 
@@ -50,7 +50,7 @@ body {
 }
 
 .header__menu {
-  margin-right: 5px;
+  margin-left: -11px;
 }
 
 .menu__list {
@@ -167,7 +167,7 @@ body {
   flex-direction: column;
   gap: 32px;
   width: 950px;
-  margin-left: 42px;
+  margin-right: -83px;
 }
 
 .hero-section__tagline,
